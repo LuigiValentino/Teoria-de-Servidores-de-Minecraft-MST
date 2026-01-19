@@ -612,18 +612,9 @@
         <li>Formación de administradores y moderadores</li>
         <li>Análisis comparativo de diferentes modelos de servidores</li>
     </ul>
-    
-  <h3>7.3. Recursos Adicionales</h3>
-  <p>Para profundizar en la MST, se recomienda:</p>
-    <ul>
-        <li>Videos originales de Pine Cone LP, Untosable Salad, Joyful, KCG</li>
-        <li>Comunidades de discusión en Reddit y Discord dedicadas a administración de servidores</li>
-        <li>Documentación de plugins populares y su filosofía de diseño</li>
-        <li>Estudios de caso de servidores exitosos a largo plazo</li>
-   </ul>
+
     
    <hr>
-    
-  <p><strong>Nota final:</strong> Este documento representa una síntesis del conocimiento actual sobre MST. Como campo emergente, está sujeto a evolución y refinamiento continuo. Se recomienda a los lectores participar en discusiones comunitarias y contribuir con sus propias observaciones y experiencias.</p>
+
     
   <p><em>Última actualización: Enero 2025</em></p>
